@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @rudhreesh
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently working as an AI Engineer/Data Scientist
 - 💞️ I’m looking to collaborate on any DL projects
 - 📫 You can find me here 
 
